@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Calcolatrice</string>
+    <string name="bottone">Torna alla home</string>
+    <string name="bottoneHome">Apri Seconda Activity</string>
 </resources>
